@@ -1,0 +1,12 @@
+class abc{
+void fun(){
+int a,b;	
+b=a+2;	
+}
+public static void main(String args[]){
+float f=10.0
+int i=10
+abc ob= new abc();
+ob.fun();
+}
+}
